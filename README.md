@@ -8,4 +8,4 @@ https://github.com/google/guetzli/releases
 
 3. Open the batch file and change the folders as you wish. (or create a folder called images and copy all your images there)
 
-4. Execute the batch file.
+4. Execute the batch file by running run.bat in command prompt.
